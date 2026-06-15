@@ -1,0 +1,5 @@
+pygame-ce
+fastapi
+uvicorn[standard]
+pillow
+websockets
