@@ -1,5 +1,3 @@
-/dungeon.tiled-project
-/dungeon.tiled-session
-/dungeon_map.tmx
-/VelmoraRealms-Doors_Free.tsx
-/VelmoraRealms-TileSet_Free.tsx
+__pycache__/
+*.pyc
+.DS_Store
